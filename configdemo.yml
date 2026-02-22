@@ -3,3 +3,5 @@ build:
   version : 2.0.0
   name: "Dev-Git-prod-Build"
   type: "GIT development Build"
+server:
+  port: 8081
